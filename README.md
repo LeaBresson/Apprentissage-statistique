@@ -1,5 +1,6 @@
 # Apprentissage-statistique
-Project for the course "Apprentissage statistique" at ENSAE - Bike Sharing Demand
+
+Projet portant sur la prédiction de la demande de vélos à Washington dans le cadre du cours "Apprentissage statistique" (Professeur: Arnak Dalayan, ENSAE).
 
 ## Contexte
 Nous cherchons à prédire le nombre de vélos partagés, type "Vélib", loués par heure à Washington (compétition Kaggle "*Bike Sharing Demand*"). Le jeu de données disponible contient le nombre de vélos loués dans la ville, par des utilisateurs abonnés et non abonnés, chaque heure, du 1er au 19ème jour du mois pour les années 2011 et 20121. Des données sur les conditions météorologiques et des variables temporelles sont également disponibles chaque heure.
